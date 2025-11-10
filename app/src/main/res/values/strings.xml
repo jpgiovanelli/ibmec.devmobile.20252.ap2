@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ibmec-dev-mobile-ap2</string>
+    <string-array name="os_options">
+        <item>Windows</item>
+        <item>macOS</item>
+        <item>Linux</item>
+        <item>Outro</item>
+    </string-array>
+</resources>
